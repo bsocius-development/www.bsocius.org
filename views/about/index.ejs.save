@@ -1,0 +1,43 @@
+<div id="main">
+        <div class="header">
+            <h1>LivePixel</h1>
+            <h2>An opensource media sharing tool</h2>
+        </div>
+
+        <div class="content">
+            <h2 class="content-subhead">What is LivePixel?</h2>
+            <p>
+                LivePixel, is a simple, outstanding, opensource media management tool. The tool is designed for receiving, organizing and publishing live photo and video content. So that you could share your greatest moments with your audiance as quickly as possible.
+            <p>
+                We are building LivePixel as an opensource alternative to other comparable services. Those services with a few exceptions are driven for revenue by selling your information to advertisers. We believe that LivePixel could be an alternative for those services. <strong>With LivePixel, you are in control of your data and we will never sell your information to advertisers.</strong> 
+            </p>  
+
+            <h2 class="content-subhead">How does LivePixel Work?</h2>
+            <h3 class="content-subhead-small">A simple use case, J-Festival</h3>
+            <p>
+                Lets set the stage for J-Festival, a three day yearly music festival. J-Festival wants to share a live photo and video stream. In order to accomplish that, they hired three photographers and where two of those photographers will be
+responsible for shooting video. Everthing goes great until the first photographer delivers the photo via dropbox. The second photograper delivers the photo's via google drive. Now our other media is made available via ftp. 
+            </p>
+
+            <div class="pure-g">
+                <div class="pure-u-1-4">
+                    <img class="pure-img-responsive" src="http://farm3.staticflickr.com/2875/9069037713_1752f5daeb.jpg" alt="Peyto Lake">
+                </div>
+                <div class="pure-u-1-4">
+                    <img class="pure-img-responsive" src="http://farm3.staticflickr.com/2813/9069585985_80da8db54f.jpg" alt="Train">
+                </div>
+                <div class="pure-u-1-4">
+                    <img class="pure-img-responsive" src="http://farm6.staticflickr.com/5456/9121446012_c1640e42d0.jpg" alt="T-Shirt Store">
+                </div>
+                <div class="pure-u-1-4">
+                    <img class="pure-img-responsive" src="http://farm8.staticflickr.com/7357/9086701425_fda3024927.jpg" alt="Mountain">
+                </div>
+            </div>
+
+            <h2 class="content-subhead">Try Resizing your Browser</h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+        </div>
+    </div>
+</div>
