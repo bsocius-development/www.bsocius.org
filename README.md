@@ -12,4 +12,4 @@ BSocius provides a central hub for your content creators. They can now upload th
 
 # We need help!
 
-Since bSocius is developed as an open source project we are open for everybody who wants to join and help bSocius to become a great tool for sharing great moments with the world. So, if you are a developer, designer, translator, or somebody who is willing to submit bug reports. Please visit our github repo or join us at #bsocius at irc.freenode.net. And let this be a great journey for all of those who are willing to help out and make bSocius the best tool for sharing moments.
+Since bSocius is developed as an open source project we are open for everybody who wants to join and help bSocius to become a great tool for sharing great moments with the world. So, if you are a developer, designer, translator, or somebody who is willing to submit bug reports. Please visit our [github repo](https://github.com/bsocius-development) or join us at #bsocius at **irc.freenode.net**. And let this be a great journey for all of those who are willing to help out and make bSocius the best tool for sharing moments.
