@@ -9,23 +9,23 @@ module.exports = {
   schema: true,
 
   attributes: {
-    events: {
-      collection: 'event',
-      via: 'userId'
-    },
-    userName: {
-      type: 'string',
-      required: true,
-      unique: true,
-      maxLength: 18
-    },
+
     email: {
       type: 'string',
       email: true,
       required: true,
-      unique: true
     }
 
-  }
+  },
+
+  afterCreate: function(values, next) {
+
+    console.log("Called beforeCreate User ");
+    console.log(values);
+
+    //This checks to make sure the password and password confirmation match before creating the record
+    next();
+    }
+
 };
 

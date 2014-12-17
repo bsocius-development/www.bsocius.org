@@ -6,6 +6,16 @@
  */
 
 module.exports = {
-	
+
+  create: function (request, response, next) {
+    User.create (request.params.all(), function userCreated (err, user) {
+      //when there is an error
+      if(err) return next(err);
+
+      return response.redirect('/');
+    })
+
+  }
 };
+
 
