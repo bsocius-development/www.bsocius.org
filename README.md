@@ -1,3 +1,5 @@
+**NOTE: This project, is still in a very early state.**
+
 # bSocius
 
 bSocius, is a simple, outstanding, open source media management tool. The tool is designed for receiving, organizing and publishing live photo and video content. So that you could share your greatest moments with your audiance as quickly as possible.
