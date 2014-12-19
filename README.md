@@ -2,6 +2,8 @@
 
 # bSocius
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/bsocius-development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 bSocius, is a simple, outstanding, open source media management tool. The tool is designed for receiving, organizing and publishing live photo and video content. So that you could share your greatest moments with your audiance as quickly as possible.
 
 We are building BSocius as an open source alternative to other comparable services. Those services with a few exceptions are driven for revenue by selling your information to advertisers. We believe that BSocius could be an alternative for those services. With bSocius, you are in control of your data. 
